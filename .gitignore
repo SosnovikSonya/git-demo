@@ -9,3 +9,10 @@
 
 #ignore bin directory
 [Bb]in/
+
+#Java specific
+.classpath
+.project
+.settings
+
+.idea
